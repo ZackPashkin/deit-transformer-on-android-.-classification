@@ -1,6 +1,6 @@
 # deit transformer on android . classification example
 1. Run 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ZackPashkin/deit-transformer-on-android-.-classification/blob/main/quantized_model_preparaion_transformer_deit.ipynb) to prepare model for android
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ZackPashkin/deit-transformer-on-android-.-classification/blob/main/quantized_model_preparaion_transformer_deit.ipynb) to prepare model for android or download it from [here](https://storage.googleapis.com/clipnetgan/deit_tiny_android/fbdeit.pt)
 2. Put model to assets folder
 3. Build and run app
 
