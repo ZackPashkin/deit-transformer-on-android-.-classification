@@ -60,6 +60,7 @@ android {
 }
 
 ```
+android studio version 4.1
 
 # Reference
 DEIT transformers repo
