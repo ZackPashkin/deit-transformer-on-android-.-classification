@@ -62,7 +62,9 @@ android {
 }
 
 ```
-[!https://github.com/ZackPashkin/deit-transformer-on-android-.-classification/blob/main/gradle.png]
+
+[<img src="https://github.com/ZackPashkin/deit-transformer-on-android-.-classification/blob/main/gradle.png" width="250"/>]
+
 
 android studio version 4.1
 
