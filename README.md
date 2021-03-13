@@ -4,7 +4,7 @@
 2. Put model to assets folder
 3. Build and run app
 
-[<img src="https://github.com/ZackPashkin/deit-transformer-on-android-.-classification/blob/main/example_deit_classifier.gif" width="250"/>]()
+[<img src="https://github.com/ZackPashkin/deit-transformer-on-android-.-classification/blob/main/example_deit_classifier.gif" width="250"/>](https://github.com/ZackPashkin/deit-transformer-on-android-.-classification/blob/main/example_deit_classifier.gif)
 
 
 # Reference
