@@ -63,7 +63,7 @@ android {
 
 ```
 
-[<img src="https://github.com/ZackPashkin/deit-transformer-on-android-.-classification/blob/main/gradle.png" width="250"/>]
+<img src="https://github.com/ZackPashkin/deit-transformer-on-android-.-classification/blob/main/gradle.png" width="700"/>
 
 
 android studio version 4.1
