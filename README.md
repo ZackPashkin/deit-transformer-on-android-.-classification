@@ -7,6 +7,8 @@
 [<img src="https://github.com/ZackPashkin/deit-transformer-on-android-.-classification/blob/main/example_deit_classifier.gif" width="250"/>](https://github.com/ZackPashkin/deit-transformer-on-android-.-classification/blob/main/example_deit_classifier.gif)
 
 
+
+
 ## Gradle:app
 ```
 apply plugin: 'com.android.application'
@@ -60,6 +62,8 @@ android {
 }
 
 ```
+[!https://github.com/ZackPashkin/deit-transformer-on-android-.-classification/blob/main/gradle.png]
+
 android studio version 4.1
 
 # Reference
