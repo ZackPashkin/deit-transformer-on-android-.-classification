@@ -69,6 +69,10 @@ android {
 
 android studio version 4.1
 
+
+
+[Meduim article]("https://kaisenaiko.medium.com/deit-vision-transformer-on-android-classification-example-b862976a913a)
+
 # Reference
 DEIT transformers repo
 https://github.com/facebookresearch/deit
