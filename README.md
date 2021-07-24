@@ -58,6 +58,7 @@ android {
 
         implementation 'org.pytorch:pytorch_android:1.8.0'
         implementation 'org.pytorch:pytorch_android_torchvision:1.8.0'
+        
     }
 }
 
